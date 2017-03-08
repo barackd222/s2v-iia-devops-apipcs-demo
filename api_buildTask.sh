@@ -1,7 +1,7 @@
 ################################
 ################################
 ######
-######	This script was designed to be copied into DevCS as a Shell step.
+######	This script was designed to be invoked into DevCS as a Shell step.
 ######
 ######	It can alternaticely be run standalone. If so just adjust the paths and ensure 
 ######	you have the right json configuration files.
