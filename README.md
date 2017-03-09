@@ -5,11 +5,12 @@ This project is intended to illustrate the use of DevCS to automate such tasks.
 
 Steps to use:
 
-1. This blog goes hand in hand with the following blog:
+1. These scripts go hand in hand with the following blog:
 
 https://solutionsanz.blog/2017/03/08/teaching-how-to-devops-automate-the-provisioning-of-external-apis-using-oracle-api-platform-and-developer-cloud-service/
 
-Please review before continuing
+Please review before continuing...
+
 2. As part of this blog it is expected that you will create a DevCS project and Git repository.
 3. Fork this repo and modify remote git to point to your DevCS Git repo
 4. Copy the content from api_buildTask_readme.txt into a new Shell step as part of a Hudson's build job.
